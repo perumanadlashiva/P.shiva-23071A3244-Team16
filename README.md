@@ -24,5 +24,5 @@ This is a simple chat server that utilizes TCP sockets to enable communication b
 
 ### Instructions:
 1. *Compile*:  
-   ```bash
+   ``bash
    gcc tcp_chat_server.c -o tcp_chat_server
